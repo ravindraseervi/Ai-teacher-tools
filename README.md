@@ -1,8 +1,5 @@
 # Ai-teacher-tools
 Free AI-powered tools and prompts for teachers and students.
-# AI Teacher Tools
-
-Free AI-powered tools, prompts, and resources for teachers and students.
 
 ## About
 This repository contains practical AI prompts, templates, workflows, and educational resources designed to help teachers, students, and content creators improve productivity using AI.
